@@ -6,7 +6,7 @@ setup your virtualenv
 
 ```
 git clone https://github.com/xhijack/scraptop
-pip install - requirement.txt
+pip install -r requirement.txt
 ```
 
 #HOW TO RUN
